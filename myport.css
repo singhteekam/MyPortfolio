@@ -1,0 +1,195 @@
+
+#navBar{
+    background-color: rgb(125, 214, 125);
+}
+#navItem{
+    font-weight: bold;
+    color: black;
+    font-size: large;
+    
+}
+#navItems a:hover{
+    color:white;
+    text-decoration: underline;
+    font-size: larger;
+    background-color: rgb(49, 60, 161);
+    border-radius: 50%;
+}
+img{
+    border-radius: 20%;
+    margin: 1% 1% 1% 1%;
+}
+
+#imageColor{
+    background-color: grey;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#aboutMe{
+    justify-content: center;
+}
+#aboutME{
+    justify-content: right;
+}
+#aboutMEEE{
+    font-size: 50px;
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+
+.pro{
+    text-align: center;
+    /* margin-top: 5%; */
+    /* padding-bottom: 5%; */
+}
+#proJECT{
+    margin-top: 3%;
+}
+#proJECTS{
+    text-align: center;
+    margin-bottom: 3%;
+}
+.pro00{
+    text-align: center;
+    /* margin-top: 5%; */
+    padding-bottom: 5%;
+    margin-top: -3%;
+}
+.pro88{
+    text-align: center;
+    /* margin-top: 5%; */
+    padding-bottom: 5%;
+}
+#pro2{
+    font-size: x-large;
+}
+.card-body{
+    /* background-image: linear-gradient(grey,rgb(162, 199, 120)); */
+    background-color: rgb(115, 199, 115);
+    /* border-radius: 2%; */
+}
+.card{
+    height: 220px;
+}
+#card33{
+    height: 320px;
+}
+#project{
+    padding: 1% 1% 1% 1%;
+}
+#proName{
+    color: black;
+}
+#descColor{
+    color: rgb(6, 6, 114);
+}
+#viewPro{
+    color: rebeccapurple;
+    font-weight: bolder;
+    font-size: large;
+}
+#viewPro:hover{
+    color: red;
+    font-size: x-large;
+}
+.techUsed{
+    color:rgb(49, 0, 128);
+}
+
+h3{
+    text-align: center;
+}
+#myskill{
+    background-color: rgb(82, 80, 80);
+}
+#mys{
+    color: white;
+    padding-bottom: 3%;
+}
+#indiColor{
+    color: white;
+}
+#techColor{
+    background-color: rgb(120, 180, 120);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+#builtBy{
+    background-color: rgb(58, 51, 51);
+    margin-top: 3%;
+    
+}
+.built{
+    text-align: center;
+    margin-top: 2%;
+    color: white;
+}
+.built2{
+    color: white;
+}
+
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  /* width: 50px; */
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    color: black;
+}
+
+.facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+}
+.twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 50%;
+}
+.linkedin {
+    background: #007bb5;
+    color: white;
+    border-radius: 50%;
+}
+.instagram {
+    background: #df5388;
+    color: white;
+    border-radius: 50%;
+}
+.snapchat {
+    background: yellow;
+    color: black;
+    border-radius: 50%;
+}
+.github {
+    background: rgb(99, 99, 95);
+    color: rgb(225, 234, 238);
+    border-radius: 50%;
+}
+#iconsize{
+    font-size: x-large;
+}
+
+#soc{
+    margin: 1% 1% 1% 1%;
+}
+
+#socialButtons{
+    background-color: none;
+    margin-top: -3%;
+}
+#socialContent{
+    justify-content: space-evenly;
+}

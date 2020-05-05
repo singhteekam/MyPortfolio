@@ -1,0 +1,32 @@
+#resumeBody{
+    background-image: linear-gradient(rgb(130, 219, 130), rgb(202, 123, 123),rgb(154, 119, 179),rgb(112, 175, 175));
+    margin: 1% 1% 1% 1%;
+}
+
+
+#bottomTable{
+    justify-content: space-between;
+}
+#navItem{
+    font-weight: bold;
+    color: black;
+    font-size: large;
+    
+}
+#navItems a:hover{
+    color:white;
+    text-decoration: underline;
+    font-size: larger;
+    background-color: rgb(49, 60, 161);
+    border-radius: 50%;
+}
+#resumeColor{
+    color: red;
+}
+.table-bordered{
+    border-color: black;
+}
+
+#tableBorder{
+    border: 2px solid black;
+}
